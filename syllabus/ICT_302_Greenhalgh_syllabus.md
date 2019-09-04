@@ -31,7 +31,7 @@ In my office or on Zoom:
 ## Statement on Basic Needs Security and Course Performance
 Any student who has difficulty affording or accessing food to eat every day or who lacks a safe and stable place to live and believes this may affect their performance in the course is urged to [contact the Dean of Students](http://www.uky.edu/concern/) and to explore the resources listed at the bottom of [this page](https://uknow.uky.edu/campus-news/uk-working-ensure-food-and-housing-security-among-students). Furthermore, please notify me if you are comfortable in doing so.
 
-(Thank you to [Dr. Sara Goldrick-Rab](http://saragoldrickrab.com/), whose [blog post](https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9) inspired my adoption of this statement.)
+**(Thank you to [Dr. Sara Goldrick-Rab](http://saragoldrickrab.com/), whose [blog post](https://medium.com/@saragoldrickrab/basic-needs-security-and-the-syllabus-d24cc7afe8c9) inspired my adoption of this statement.)**
 
 ## Accommodations Due to Disability
 If you have a documented disability that requires academic accommodations, please see me as soon as possible during scheduled office hours. In order to receive accommodations in this course, you must provide me with a Letter of Accommodation from the Disability Resource Center (DRC). The DRC coordinates campus disability services available to students with disabilities. Visit the [DRC website](http://www.uky.edu/DisabilityResourceCenter), [email the DRC](mailto:drc@uky.edu), contact them by phone at (859) 257-2754, or visit their office on the corner of Rose Street and Huguelet Drive in the Multidisciplinary Science Building, Suite 407.
@@ -144,11 +144,11 @@ All breastfeeding babies are welcome in class as often as necessary. Non-nursing
 # Course Assessments
 
 ## Assessment Scale
-- A: 90 - 100 points
-- B: 80 - 89.99 points
-- C: 70 - 79.99 points
-- D: 60 - 69.99 points
-- E: 0 - 59.99 points
+- **A:** 90 - 100 points
+- **B:** 80 - 89.99 points
+- **C:** 70 - 79.99 points
+- **D:** 60 - 69.99 points
+- **E:** 0 - 59.99 points
 
 I do not "round up" grades at the end of the semester. I know that can be frustrating for someone who is "almost there," but all rounding really does is move the "almost there" zone down by half a point, potentially creating another group of students who are frustrated that they just barely missed the mark. If you are concerned about potentially being right on the edge of a grading category at the end of the semester, the best thing to do is to talk to me about your concerns as early as possible (and certainly not after the fact) so that we can make sure that you wind up where you want to be!
 
@@ -274,14 +274,14 @@ Using guidelines presented in class, identify and explore three different websit
 	- Ask Me Anything!
 
 ### Wednesday, 28 August (Explore)
-- what is [GitHub](https://github.com/)?
-- set up GitHub account
-- watch and star ICT 302 GitHub [ICT 302 repository](https://github.com/greenhas/ICT_302_2019_Fall)
-- set up [GitHub Desktop](https://desktop.github.com/)
-- set up personal repository
+- What is [GitHub](https://github.com/)?
+- Set up GitHub account
+- Watch and star ICT 302 GitHub [ICT 302 repository](https://github.com/greenhas/ICT_302_2019_Fall)
+- Set up [GitHub Desktop](https://desktop.github.com/)
+- Set up personal repository
 	- go to [syllabus](https://github.com/greenhas/ICT_302_2019_Fall/blob/master/syllabus/ICT_302_Greenhalgh_syllabus.md) and review *Learning Journal Setup* Proof of Concept
 - Canvas susbmission walkthrough
-- learn about markup languages
+- Learn about markup languages
 
 
 ### Friday, 30 August (Create):
